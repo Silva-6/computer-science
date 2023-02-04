@@ -232,7 +232,6 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
-
 **Topics covered**:
 `divide and conquer`
 `sorting and searching`
